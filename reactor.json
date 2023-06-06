@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "themacexpert",
+    "repo": "incrementer",
+    "branch": "master"
+  },
+  "name": "incrementer",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1026
+}
